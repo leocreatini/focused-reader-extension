@@ -4,7 +4,7 @@
 
 This project aims to provide an easy way to remove distractions and information overloading when reading online content. Great for focusing on solely what you're reading.
 
-![Example](assets/example.png)
+![Example](assets/example.jpg)
 
 ## Usage
 
