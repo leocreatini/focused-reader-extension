@@ -13,9 +13,9 @@
     "babel-plugin-transform-react-jsx": "^6.24.1",
     "babel-preset-env": "^1.6.1",
     "copy-webpack-plugin": "^4.0.1",
-    "crx-webpack-plugin": "^0.1.5",
     "eslint": "^4.2.0",
     "eslint-plugin-react": "^7.1.0",
+    "nodemon": "^1.14.12",
     "rimraf": "^2.6.1",
     "webpack": "^3.2.0"
   },
@@ -36,7 +36,6 @@
     "verbose": true
   },
   "dependencies": {
-    "nodemon": "^1.14.12",
     "ramda": "^0.26.1"
   }
 }
