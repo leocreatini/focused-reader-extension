@@ -4,6 +4,8 @@
 
 This project aims to provide an easy way to remove distractions and information overloading when reading online content. Great for focusing on solely what you're reading.
 
+![Example](assets/example.png)
+
 ## Usage
 
 Press the Red Button to activate. A white glow should appear on the top and bottom, covering any text.
