@@ -1,6 +1,7 @@
 {
   "manifest_version": 2,
-  "name": "focused-reader-extension",
+  "name": "Focused Reader Extension",
+  "short_name": "focused-reader-extension",
   "version": "0.1.0",
   "description": "Creates a focused mode to remove distractions while reading online.",
   "icons": {
