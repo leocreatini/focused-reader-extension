@@ -28,7 +28,7 @@ Desktop.ini
 $RECYCLE.BIN/
 
 ## generated
-.zip
+*.zip
 
 dist/
 node_modules/
