@@ -1,4 +1,4 @@
-# Focused Reader
+# Focused Reader Extension
 
 ## Introduction
 
